@@ -31,6 +31,3 @@ I build web applications from frontend to backend with a focus on clean code and
 [LinkedIn](your-link-here) | [Portfolio](your-link-here) | [Email](mailto:your-email@example.com)
 
 ---
-
-## Featured Project
-- https://github.com/Shama-Research-llc/argus
